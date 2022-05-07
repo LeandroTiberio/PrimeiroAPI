@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "B+5f3O1Oe55ipig7zSgtCb53hc7Z79Wq4wsHgytiUrY=",
+  "Source": "PrimeiroAPI.Web",
+  "BasePath": "_content/PrimeiroAPI.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
