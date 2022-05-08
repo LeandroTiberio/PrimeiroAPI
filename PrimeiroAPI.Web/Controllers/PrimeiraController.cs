@@ -14,7 +14,7 @@ namespace PrimeiroAPI.Web.Controllers
         }
         [HttpGet("segundoApi")]
         public string SegundaAPI()
-        {
+        { 
             return "TesteDois";
         }   
         [HttpGet("terceiraApi")]
